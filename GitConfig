@@ -1,0 +1,27 @@
+# git config --list --show-origin  > GitCofig
+
+file:"C:\\ProgramData/Git/config"	core.symlinks=false
+file:"C:\\ProgramData/Git/config"	core.autocrlf=true
+file:"C:\\ProgramData/Git/config"	core.fscache=true
+file:"C:\\ProgramData/Git/config"	color.diff=auto
+file:"C:\\ProgramData/Git/config"	color.status=auto
+file:"C:\\ProgramData/Git/config"	color.branch=auto
+file:"C:\\ProgramData/Git/config"	color.interactive=true
+file:"C:\\ProgramData/Git/config"	help.format=html
+file:"C:\\ProgramData/Git/config"	rebase.autosquash=true
+file:C:/Program Files/Git/mingw64/etc/gitconfig	http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+file:C:/Program Files/Git/mingw64/etc/gitconfig	http.sslbackend=openssl
+file:C:/Program Files/Git/mingw64/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/mingw64/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/mingw64/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/mingw64/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/mingw64/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/mingw64/etc/gitconfig	credential.helper=manager
+file:C:/Users/steve.schmidt/.gitconfig	core.autocrlf=input
+file:C:/Users/steve.schmidt/.gitconfig	http.proxy=10.239.90.45:80
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true

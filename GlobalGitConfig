@@ -1,0 +1,4 @@
+# git config --global --list --show-origin  > GlobalGitCofig
+
+file:C:/Users/steve.schmidt/.gitconfig	core.autocrlf=input
+file:C:/Users/steve.schmidt/.gitconfig	http.proxy=10.239.90.45:80
